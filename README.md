@@ -26,11 +26,11 @@ The [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob
 the Movie object class that consists of four class variables. The [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/media.py) script also provides the
 constructor and a class method for playing a movie trailer based on the Movie object's argument. 
 
-The Movie object variables Title, Story Line, Poster
-Image and YouTube Trailer are provided in [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py) script and can be updated to the developer’s choice.
+The Movie object variables Title, Story Line, Poster Image and YouTube Trailer are provided in [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py) 
+script and can be updated to the developer’s choice.
 
-[fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) is imported by the [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py) script and the Movie
-instances array is used to create the HTML structure for [fresh_tomatoes.html](https://stewartthescott.github.io/fresh_tomatoes.html).
+[fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) is imported by the [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py) 
+script and the Movie instances array is used to create the HTML structure for [fresh_tomatoes.html](https://stewartthescott.github.io/fresh_tomatoes.html).
 
 **Copyright and License**
 
