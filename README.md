@@ -17,9 +17,10 @@ The files for the project, can be [download here](https://stewartthescott.github
 ### Getting Started ###
 
 After the Zip file has been unpacked in to a local working directory, a [fresh_tomatoes.html](https://stewartthescott.github.io/fresh_tomatoes.html)
-movie trailer page can be created by launching the [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py)
-script.
-The [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py)script imports the [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/media.py) and [fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py). The [fresh_tomatoes.html](https://stewartthescott.github.io/fresh_tomatoes.html) can then be launched in a browser from the local work directory.
+movie trailer page can be created by launching the [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py) script in the Python Shell.
+The [entertainment.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/entertainment_center.py)
+script imports the [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/media.py)
+and [fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py). The [fresh_tomatoes.html](https://stewartthescott.github.io/fresh_tomatoes.html) can then be launched in a browser from the local work directory.
 
 ### Documentation ###
 
