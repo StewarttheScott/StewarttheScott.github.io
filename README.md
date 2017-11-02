@@ -6,7 +6,7 @@ The Movie Trailer Project generates an HTML file from a list of
 favorite movies with trailer videos. The HTML file is created by the following python
 scripts: media.py, entertainment.py and fresh_tomatoes.py. 
 
-**Preview**
+### Preview ###
 
 The resulting HTML file can be viewed at https://stewartthescott.github.io/fresh_tomatoes.html.
 
