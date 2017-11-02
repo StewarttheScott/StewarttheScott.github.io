@@ -14,7 +14,7 @@ The resulting HTML file can be viewed at https://stewartthescott.github.io/fresh
 
 **Download**
 
-The files for the project, can be downloaded here.
+The files for the project, can be download here.
 
 **Getting Started**
 
