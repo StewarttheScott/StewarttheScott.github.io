@@ -34,7 +34,7 @@ script and the Movie instances array is used to create the HTML structure for [f
 
 ### Copyright and License ###
 
-*[fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) code provided by Udacity.
+* [fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) code provided by Udacity.
 
 
  
