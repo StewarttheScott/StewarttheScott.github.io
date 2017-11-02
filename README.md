@@ -1,6 +1,6 @@
-# **Full Stack Nano Degree: Movie Trailer Project**
+#Full Stack Nano Degree: Movie Trailer Project#
 
-## **Movie Trailer Project** ##
+##Movie Trailer Project##
 
 The Movie Trailer Project generates an HTML file from a list of
 favorite movies with trailer videos. The HTML file is created by the following python
