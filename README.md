@@ -25,7 +25,7 @@ script imports the [media.py](https://github.com/StewarttheScott/StewarttheScott
 **Documentation**
 
 The [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/media.py) script calls 
-the Movie object class that consists of four class variables. The media.py script also provides the
+the Movie object class that consists of four class variables. The [media.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/media.py) script also provides the
 constructor and a class method for playing a movie trailer based on the Movie object's argument. 
 
 The Movie object variables Title, Story Line, Poster
@@ -36,7 +36,7 @@ instances array is used to create the HTML structure for  fresh_tomatoes.html.
 
 **Copyright and License**
 
-fresh_tomatoes.py code provided by Udacity.
+[fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) code provided by Udacity.
 
 
  
