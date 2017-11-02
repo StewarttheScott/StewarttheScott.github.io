@@ -1,8 +1,8 @@
-# **Movie Trailer Project for Full Stack Nano Degree**
+# **Full Stack Nano Degree: Movie Trailer Project**
 
 **Movie Trailer Project**
 
-The Movie Project generates an HTML file from a list of
+The Movie Trailer Project generates an HTML file from a list of
 favorite movies with trailer videos. The HTML file is created by the following python
 scripts: media.py, entertainment.py and fresh_tomatoes.py. 
 
