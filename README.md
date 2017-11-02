@@ -1,8 +1,6 @@
-# **StewarttheScott.github.io**
-Movie Project for Full Stack Nano Degree
+# **Movie Trailer Project for Full Stack Nano Degree**
 
-
-**Movie Project**
+**Movie Trailer Project**
 
 The Movie Project generates an HTML file from a list of
 favorite movies with trailer videos. The HTML file is created by the following python
