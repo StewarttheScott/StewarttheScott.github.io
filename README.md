@@ -2,22 +2,21 @@
 Movie Project for Full Stack Nano Degree
 
 
-Movie Project
+**Movie Project**
 
 The Movie Project generates an HTML file from a list of
 favorite movies with trailer videos. The HTML file is created by the following python
 scripts: media.py, entertainment.py and fresh_tomatoes.py. 
 
-Preview
+**Preview**
 
 The resulting HTML file can be viewed at https://stewartthescott.github.io/fresh_tomatoes.html.
 
-Download
+**Download**
 
 The files for the project, can be downloaded here.
 
-Getting
-Started
+**Getting Started**
 
 After the Zip file has been unpacked in to a local working
 directory, a fresh_tomatoes.html
@@ -26,7 +25,7 @@ the entertainment.py script in a Python Shell. The entertainment.py
 script imports the media.py and fresh_tomatoes.py. The fresh_tomatoes.html can then be launched in a browser from the local work
 directory.
 
-Documentation
+**Documentation**
 
 The media.py script calls the Movie object class that
 consists of four class variables. The media.py script also provides the
@@ -39,8 +38,7 @@ Image and YouTube Trailer are provided in entertainment.py script and can be upd
 fresh_tomatoes.py is imported by the entertainment.py script and the Movie
 instances array is used to create the HTML structure for  fresh_tomatoes.html.
 
-Copyright
-and License
+**Copyright and License**
 
 
  fresh_tomatoes.py code provided by Udacity.
