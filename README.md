@@ -39,6 +39,6 @@ script and the Movie instances array is used to create the HTML structure for [f
 
 * [fresh_tomatoes.py](https://github.com/StewarttheScott/StewarttheScott.github.io/blob/master/fresh_tomatoes.py) code provided by Udacity.
 * Trailer Video available via YouTube.com
-* Poster Art coutesty of aceshowbiz.com, metacritic.com and bing.net
+* Poster Art curtesy of aceshowbiz.com, metacritic.com and bing.net
 
  
